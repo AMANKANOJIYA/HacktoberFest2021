@@ -1,8 +1,13 @@
-# [HACKTOBERFEST 2021](https://hacktoberfest.digitalocean.com/)
+# [**Hacktober Fest 2021**](https://hacktoberfest.digitalocean.com/)
 
-Holla Friends , <br>
-I am Aman Kanojiya , <br>
-Lets get Some Awesome Information about this awesome event and lets Contribute to open source to <br>
+<div style="background:#F4F0E1; padding:40px">
+<img height="300px" width="auto" style="align-item:center;" src="./images/htp.svg"></img></div>
+<br>
+<br>
+
+**Holla Friends, ( _Hello dosto_ ) <br>
+I am **Aman Kanojiya** , <br>
+Lets get Some Awesome Information about this Amazing event and lets Contribute to open source to ..<br>**
 
 _" make World a better place to Live"_
 

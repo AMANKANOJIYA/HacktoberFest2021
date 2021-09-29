@@ -1,5 +1,13 @@
 **_A repository for contributing a "HELLO WORLD" program in any of the programming languages you know Or can Create a File With some Info about You_**
 
+## **Not Comfortable With Cmd ??**
+
+No issue [Click HERE](Practice-2.md)
+
+## **Comfortable With Cmd ??**
+
+_This is all Yours_
+
 ## How to Contribute: 👨🏻‍💻
 
 1. Star The Project.
@@ -11,7 +19,15 @@
 
 Questions can be asked by raising an `Issue`.
 
+## What is forking?
+
+When we love someone’s repository and would like to have it in our GitHub account, we fork it so that we can work with it separately.
+
+When we fork a repository, we get an instance of that entire repository with its whole history. After forking, we can do whatever we want to do without affecting the original version.
+
 ## How to clone repo and make changes locally: ✂📋
+
+- Download [GIT](https://git-scm.com/downloads) and Install
 
 ```
   click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with

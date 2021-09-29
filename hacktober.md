@@ -1,9 +1,12 @@
 # [**Hacktober Fest 2021**](https://hacktoberfest.digitalocean.com/)
 
-<div style="background:#F4F0E1; padding:40px">
-<img height="300px" width="auto" style="align-item:center;" src="./images/htp.svg"></img></div>
 <br>
 <br>
+<img height="300px" width="auto" style="align-item:center; background-color:#F4F0E1;" src="./images/htp.svg">
+<br>
+<br>
+
+
 
 **Holla Friends, ( _Hello dosto_ ) <br>
 I am **Aman Kanojiya** , <br>

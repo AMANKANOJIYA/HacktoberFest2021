@@ -1,4 +1,4 @@
-#### FOR HACKTOBER FEST CLICK [HERE]("hacktober.md")
+#### FOR HACKTOBER FEST CLICK [HERE](hacktober.md)
 
 # Git and Github
 

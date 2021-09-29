@@ -13,7 +13,7 @@
   git --version
   ```
 
-  <img src="./images/gitVersionCheck.png"></img>
+  <img src="./images/gitVersionCheck.png"></img><br>
   _Congratulations, you have verified your Git version._
 
 ### Explore Help

@@ -6,21 +6,21 @@
 <br>
 <br>
 
-[YOUTUBE pls Watch this First](https://www.youtube.com/watch?v=JZeHxbLm_IQ)
+[Please watch this YouTube video first](https://www.youtube.com/watch?v=JZeHxbLm_IQ)
 
-**Holla Friends, ( _Hello dosto_ ) <br>
+**Hola Friends ( _Hello dosto_ )! <br>
 I am **Aman Kanojiya** , <br>
-Let's get Some Awesome Information about this Amazing event, and let's Contribute to open source to ..<br>**
+Let's get some Awesome Information about this Amazing event and Contribute to open source to ..<br>**
 
 **_" make World a better place to Live"_**
 
 ## What is Hacktober Fest?
 
-Hacktoberfest 2021 is a month-long virtual festival event to celebrate open source contributions presented by Digital Ocean, Intel, and DEV. It is the easiest way to get into open source!
+Hacktoberfest 2021 is a month-long virtual festive event which aims to celebrate open source contributions presented by Digital Ocean, Intel and DEV. It is the easiest way to get started with open source!
 
 ## How to participate?
 
-You just need to make five contributions to open source before October 31. This is an Amazing Opportunity to getting started To OpenSource and Make your Move, and Yes can receive a free Hacktoberfest t-shirt and Swag, Isn't it Awesome.
+You just need to make five contributions to open source projects before October 31. This is an Amazing Opportunity to getting started with Open Source and Make your Move, and Yes will receive a free Hacktoberfest t-shirt and some Swags, Isn't it Awesome.
 
 ## How can a beginner participate?
 
@@ -31,12 +31,12 @@ For beginners, they are saying that you could make contributions to documentatio
 - Step 2: Register to Hacktoberfest.<br>
   (_Those Who have already Registered in can move to the next step_)
   https://hacktoberfest.digitalocean.com/
-- Step 3: Contribute to Any Four repositories or any others repositories you like. Check instructions to contribute in each repository. It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes …
+- Step 3: Contribute to Any Four repositories or any others repositories you like. Check instructions to contribute in each repository. It's hard. It's always hard for the first time you do something. Especially when you are collaborating, making mistakes …
     *_You can Get all The Topics [Here](https://github.com/topics/hacktoberfest)_*
 
 - Step 4: Check your progress from [Hacktoberfest](https://hacktoberfest.digitalocean.com/) Website after Logging In.
 
-- Step 5: After success on ( 31 Oct ). After a few days, you will receive a mail from Digital ocean asking for a shipping address via email.
+- Step 5: Few days after the end of the program (31 Oct), you will receive an e-mail from Digital Ocean asking for shipping details. 
 
 - Step 6: Wait for that awesome Hacktoberfest t-shirt from Github & Digital Ocean.
 
@@ -54,7 +54,7 @@ For beginners, they are saying that you could make contributions to documentatio
     <img height="300px" width="600px" src="./images/Fill.png"></img><br>
   - Click on add Issue<br>
     `You are Good to go !`
-- You can Contact me on my MailID linked below
+- You can Contact me on my email ID given below:
   ```bash
   aman.kanojiya4203@gmail.com
   ```

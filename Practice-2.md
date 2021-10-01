@@ -1,5 +1,3 @@
-### **comming soon ..... (stay Tuned 😊)**
-
 **_A repository for contributing a "HELLO WORLD" program in any of the programming languages you know Or can Create a File With some Info about You_**
 
 ## **Comfortable With CMD ??**

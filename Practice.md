@@ -1,16 +1,16 @@
 **_A repository for contributing a "HELLO WORLD" program in any of the programming languages you know Or can Create a File With some Info about You_**
 
-## **Not Comfortable With Cmd ??**
+## **Not Comfortable With CMD ??**
 
 No issue [Click HERE](Practice-2.md)
 
-## **Comfortable With Cmd ??**
+## **Comfortable With CMD ??**
 
 _This is all Yours_
 
 ## How to Contribute: 👨🏻‍💻
 
-1. Star The Project.
+1. Star the Project.
 2. Fork the project.<br>
    <img height="100px" width="auto" src="./images/fork.png"></img>
 3. Make any changes in your forked repo (This will Create a new Remote repo in your Dashboard)
@@ -36,13 +36,13 @@ When we fork a repository, we get an instance of that entire repository with its
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
 ```
-  git clone https://github.com/yourGitHubUsername/HELLO-WORLD.git
+  git clone https://github.com/yourGitHubUsername/git github version.git
 ```
 
 - switch to the cloned folder. This can be done with Git Bash or the integrated terminal in the VSCode editor
 
 ```
-  cd HELLO-WORLD
+  cd git github version
 ```
 
 - Make a new branch. Your name would make a good branch because it's unique
@@ -51,7 +51,14 @@ When we fork a repository, we get an instance of that entire repository with its
   git checkout -b <name of new branch>
 ```
 
-- Open the Contributors folder inside that create a folder of your Name(_Your Name_). Add all the files of the HELLO WORLD program inside the folder of your name.
+- Open the Contributors folder inside that create a folder of your Name(_Your Name_). Add all the files of the HELLO WORLD program inside the folder of your name.<br>
+  eg:<br>
+
+  ```bash
+   print("Hello World !")
+   print("I am <YourName>")
+   print("I am From <Place>")
+  ```
 
 - Stage your changes
 

@@ -36,13 +36,13 @@ When we fork a repository, we get an instance of that entire repository with its
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
 ```
-  git clone https://github.com/yourGitHubUsername/git github version.git
+  git clone https://github.com/yourGitHubUsername/Learn-Git-Github.git
 ```
 
 - switch to the cloned folder. This can be done with Git Bash or the integrated terminal in the VSCode editor
 
 ```
-  cd git github version
+  cd Learn-Git-Github
 ```
 
 - Make a new branch. Your name would make a good branch because it's unique
@@ -55,9 +55,12 @@ When we fork a repository, we get an instance of that entire repository with its
   eg:<br>
 
   ```bash
-   print("Hello World !")
-   print("I am <YourName>")
-   print("I am From <Place>")
+    print("Hello World !")
+    print("I am <YourName>")
+    print("I am From <Place>")
+    print("I am <Your College Name and Year of Study>")
+    print("Email ID : <Your Email>")
+    print("Github : <Your Github>")
   ```
 
 - Stage your changes

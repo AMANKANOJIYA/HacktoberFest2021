@@ -45,8 +45,10 @@ For beginners, they are saying that you could make contributions to documentatio
 
 - Raise an Issue
   ### How to Raise an Issue ??
-  - On top There is a section of `Issue` add new Query
-  - Type your Query and Explain it a bit
+  - On top There is a section of `Issue` add new Query<br>
+    <img height="200px" width="500px" src="./images/newissue.png"></img><br>
+  - Type your Query and Explain it a bit<br>
+    <img height="300px" width="600px" src="./images/Fill.png"></img><br>
   - Click on add Issue<br>
     `You are Good to go !`
 - You can Contact me on my MailID linked below

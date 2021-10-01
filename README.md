@@ -42,7 +42,7 @@ For beginners, they are saying that you could make contributions to documentatio
 
 ## Want To Practice ??
 
-### [Click Here ! (For Instructions)](Practice.md)
+### [Start Practice 👈](http://example.com/)
 
 ## Any Query ??
 

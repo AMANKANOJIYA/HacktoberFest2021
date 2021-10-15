@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-    // prints hello world
     cout<<"Hello World";
     cout<<"I am Arjun Thakor";
     cout<<"I am From Gujarat ";

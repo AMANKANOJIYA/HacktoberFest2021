@@ -1,0 +1,6 @@
+print("Hello World !")
+print("I am Pranav Krishnan")
+print("I am From Kerala, India")
+print("I am 1st Year Student at Amrita, amritapuri.")
+print("Email : pranavk0217@gmail.com")
+print("Github : https://github.com/PranavKrishnan007")
